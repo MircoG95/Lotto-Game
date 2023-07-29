@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SQOjRtbPi8JfdVB10Hi/4+xJcqj32baFkbDEOuQHtbAKlQFaj7DMuiPnqfmvaX+N8HEUZSk69aaNgbMJO5xIig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mirco\\Desktop\\CodingProgramme\\C#\\Lotto\\Lotto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mirco\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mirco\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mirco\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mirco\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
